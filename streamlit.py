@@ -12,7 +12,7 @@ pio.templates.default = "simple_white"
 st.set_page_config(layout="wide")
 # %%
 
-st.title('Uber pickups in NYC')
+st.title('LOGAN LAY'S SUPER DUPER PROJECT')
 
 DATE_COLUMN = 'date/time'
 DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
